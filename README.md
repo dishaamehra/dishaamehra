@@ -69,12 +69,3 @@ Building an AI decision coach to assess plan feasibility using React, TypeScript
 
 [Portfolio](https://dishaamehra.github.io) · [GitHub](https://github.com/dishaamehra) · [LinkedIn](https://www.linkedin.com/in/dishaa-mehra-339082329/)
 
----
-
-<p align="center">
-  <sub>STATUS: Learning · Building · Leveling up.</sub>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dishaamehra&bg_color=211326&color=FFB6D5&line=FF5BAE&point=FFF3E8&area=true&hide_border=true&custom_title=Contribution%20Quest%20Log" width="100%" />
-</p>
