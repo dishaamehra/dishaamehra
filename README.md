@@ -13,7 +13,7 @@
 
 ### ▸ PLAYER PROFILE
 
-- 🎓 Third-year B.Tech student at IGDTUW
+- 🎓 Third-year B.Tech student at Indira Gandhi Delhi Technical University for Women
 - 🛠️ Building projects across AI/ML and software development
 - 🧩 Strengthening DSA and core CS fundamentals
 - 🌱 Always learning, experimenting, and figuring things out
