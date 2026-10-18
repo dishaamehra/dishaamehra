@@ -67,7 +67,7 @@ Building an AI decision coach to assess plan feasibility using React, TypeScript
 
 ### ▸ FIND ME
 
-[Portfolio](https://dishaamehra.github.io) · [GitHub](https://github.com/dishaamehra) · [LinkedIn](ADD_YOUR_LINKEDIN_URL)
+[Portfolio](https://dishaamehra.github.io) · [GitHub](https://github.com/dishaamehra) · [LinkedIn](https://www.linkedin.com/in/dishaa-mehra-339082329/)
 
 ---
 
